@@ -1,16 +1,19 @@
-# worldtime
+# Worldtime Display
 
 A new Flutter application using World Time API
 
-## Getting Started
+## 🎯 Motto 
 
-This project is a starting point for a Flutter application.
+This application displays time and city according to the user's selection which is the base version made by [NetNinja](https://github.com/iamshaunjp/flutter-beginners-tutorial). However here I have displayed backgrounds according to the city selected by the user and also the backgrounds are distinct for day time and night time **(which is past 20:00)**
 
-A few resources to get you started if this is your first Flutter project:
+## 🔺 Scale
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Although the current cities, URLs, and images and statically included as a list to display this can further be done by using a storage server combined with a database to make it completely dynamic.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+
+## ✏️ Changes
+
+Feel free to fork it or create a pull request if you can make it more efficient.
+
