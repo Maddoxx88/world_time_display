@@ -8,7 +8,7 @@ This application displays time and city according to the user's selection which 
 
 ## 🔺 Scale
 
-Although the current cities, URLs, and images and statically included as a list to display this can further be done by using a cloud storage combined with a database to make it completely dynamic.
+Although the current cities, URLs, and images are statically included as a list to display this can further be done by using a cloud storage combined with a database to make it completely dynamic.
 
 ## 📸 Screenshots
 
